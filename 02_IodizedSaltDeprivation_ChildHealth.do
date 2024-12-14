@@ -3,7 +3,7 @@
 * Manuscript: "Iodized salt has large impacts on child health and test scores in Ethiopia"
 * Authors: Robel Alemu, Kibrom Tafere, Dawd Gashu, Edward J. M. Joy, 
 *          Elizabeth H. Bailey, R. Murray Lark, Martin R. Broadley, William A. Masters
-* Date: [Date]
+* Date: This version was revised on 10 December 2024
 *
 * Description:
 * This Stata .do file replicates the analysis relating to the impact of 
